@@ -19,7 +19,7 @@ Throughout my career, one of the most valuable lessons I've learned is the impor
 
 ### **Wing Solutions**
 *Full Stack Developer*  
-Mar 2023 - Present (7 months)  
+Mar 2023 - Present
 Remote  
 **Skills:** PHPUnit, CI/CD, Laravel, React.js, TypeScript, Next.js
 
