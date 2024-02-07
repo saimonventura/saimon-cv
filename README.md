@@ -1,5 +1,5 @@
 # Saimon Ventura
-[LinkeIn](https://www.linkedin.com/in/saimon-v-36703280)
+[LinkedIn](https://www.linkedin.com/in/saimon-v-36703280)
 
 ## Professional Objective
 As a dedicated and innovative software developer, my goal is to contribute to projects with agility, reliability, and flexibility. I am passionate about creating reusable components and focusing on simplicity in design to efficiently cover all business rules. I aim to bring a problem-solving mindset and a commitment to quality, ensuring that each project not only meets but exceeds expectations. I'm continually seeking opportunities to develop robust and scalable solutions, while fostering an environment of collaboration and continuous learning.
