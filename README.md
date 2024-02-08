@@ -1,5 +1,5 @@
 # Saimon Ventura
-[LinkedIn](https://www.linkedin.com/in/saimon-v-36703280)
+[linkedin.com/in/saimon-v-36703280](https://www.linkedin.com/in/saimon-v-36703280)
 
 ## Professional Objective
 As a dedicated and innovative software developer, my goal is to contribute to projects with agility, reliability, and flexibility. I am passionate about creating reusable components and focusing on simplicity in design to efficiently cover all business rules. I aim to bring a problem-solving mindset and a commitment to quality, ensuring that each project not only meets but exceeds expectations. I'm continually seeking opportunities to develop robust and scalable solutions, while fostering an environment of collaboration and continuous learning.
@@ -7,7 +7,7 @@ As a dedicated and innovative software developer, my goal is to contribute to pr
 ## Skills
 
 - **Fluency:** ReactJS, TypeScript
-- **Experienced:** Python, Laravel, NodeJS, Serverless
+- **Experienced:** Python, Laravel, NodeJS, Serverless, Tailwind
 - **Testing:** Proficient in applying tests to confirm business rules
 - **Learning:** Strong belief in continuously learning new skills as part of daily routine
 - **Agile Methodologies:** Extensive experience working with Agile and Scrum models
