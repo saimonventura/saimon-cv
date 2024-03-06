@@ -27,26 +27,21 @@ As a dedicated and innovative software developer, my goal is to contribute to pr
 ## Work Experience
 
 ### Wing Solutions
-- **Duration:** 1 year
 - **Roles:** Backend Developer, Frontend Developer
 - **Technologies:** ReactJS, NextJS, Laravel, AWS, Docker
 
 ### FreshBooks (Toronto, Canada - full English environment)
-- **Duration:** 22 months
 - **Roles:** Backend Developer, Frontend Developer
 - **Technologies:** Python, Flask, Django, EmberJS, ReactJS, Docker, Google Cloud Platform (GCP), Microservices, RabbitMQ
 
 ### Cuponeria
-- **Duration:** 20 months
 - **Role:** Front End Developer
 - **Technology:** ReactJS with NextJS
 
 ### TradeUp Group
-- **Duration:** 20 months
 - **Role:** Mobile Developer
 - **Technology:** React Native
 
 ### AJX Automação
-- **Duration:** 23 months
 - **Roles:** Backend Developer, Frontend Developer, Mobile Developer, Point of Sale (POS) Integration
 - **Technologies:** TypeScript, PHP, Laravel, Ionic 3, Delphi, ReactJS
