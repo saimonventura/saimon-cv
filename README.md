@@ -1,47 +1,72 @@
 # Saimon Ventura
-[linkedin.com/in/saimon-v-36703280](https://www.linkedin.com/in/saimon-v-36703280)
+**Full-Stack Developer | Especialista em ReactJS, TypeScript e NextJS**  
+Lisboa, Portugal  
+📞 +55 14 99117-8228 | 📧 saimonventura@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/saimon-v-36703280)
 
-## Professional Objective
-As a dedicated and innovative software developer, my goal is to contribute to projects with agility, reliability, and flexibility. I am passionate about creating reusable components and focusing on simplicity in design to efficiently cover all business rules. I aim to bring a problem-solving mindset and a commitment to quality, ensuring that each project not only meets but exceeds expectations. I'm continually seeking opportunities to develop robust and scalable solutions, while fostering an environment of collaboration and continuous learning.
+---
 
-## Skills
+## 💡 Sobre mim
+Desde 2017 atuando como desenvolvedor, com forte foco em **JavaScript**, **TypeScript** e **ReactJS**. Tenho mais de 6 anos de experiência criando interfaces performáticas, acessíveis e escaláveis com foco em qualidade, testes e entrega contínua. Sou apaixonado por frontend, mas também atuo com backend e infraestrutura quando necessário.
 
-- **Fluency:** ReactJS, TypeScript
-- **Experienced:** Python, Laravel, NodeJS, Serverless, Tailwind
-- **Testing:** Proficient in applying tests to confirm business rules
-- **Learning:** Strong belief in continuously learning new skills as part of daily routine
-- **Agile Methodologies:** Extensive experience working with Agile and Scrum models
+Tenho experiência sólida com **NextJS (SSR e SSG)**, **Vite**, **Redux/Zustand**, **Git/GitHub Actions**, além de **Node.js, Python (Flask, Django)**, **RabbitMQ**, **S3**, **CI/CD**, **Datadog** e **Google Cloud**.
 
-## Languages
+---
 
-- **Portuguese:** Native
-- **English:** Advanced with over 20 months of professional experience
+## 🛠️ Tecnologias principais
+- **JavaScript / TypeScript** – 7+ anos
+- **ReactJS** – 6+ anos
+- **NextJS** – 5+ anos
+- **Git** – 6+ anos
+- Redux, Zustand, TailwindCSS, Styled-components
+- Testes unitários, integração, e2e (Jest, Cypress)
 
-## Education
+---
 
-### UFSC - Universidade Federal de Santa Catarina
-- **Course:** Mathematics
-- **Class of:** 2014
+## 💼 Experiência Profissional
 
+### **FreshBooks** (Toronto, Canadá)
+**Full Stack Developer**  
+*dez/2024 – mai/2025*  
+- Desenvolvimento de features e manutenção de aplicações em **ReactJS** e **EmberJS**.
+- Atuação em backend Python (Flask, Django) com microserviços, **RabbitMQ**, **Pub/Sub**.
+- Correção de bug crítico com backfill, análise de logs (GCloud), BigQuery e Celery workers.
 
-## Work Experience
+### **Wing Solutions** (Brasil / Remoto)
+**Full Stack Developer**  
+*mar/2023 – mai/2025*  
+- Transformação de protótipos Figma em produtos com **ReactJS**, **TypeScript**, **Next.js** e **Vite**.
+- Componentização, testes automatizados, integração com **Laravel**, **MySQL** e **AWS**.
 
-### Wing Solutions
-- **Roles:** Backend Developer, Frontend Developer
-- **Technologies:** ReactJS, NextJS, Laravel, AWS, Docker
+### **FreshBooks**
+**Full Stack Developer**  
+*out/2021 – jul/2023*  
+- Manutenção e criação de funcionalidades com **Flask**, **Django**, **MySQL**, **RabbitMQ** e **Datadog**.
+- Frontend com EmberJS, colaboração em ambiente 100% em inglês.
 
-### FreshBooks (Toronto, Canada - full English environment)
-- **Roles:** Backend Developer, Frontend Developer
-- **Technologies:** Python, Flask, Django, EmberJS, ReactJS, Docker, Google Cloud Platform (GCP), Microservices, RabbitMQ
+### **Cuponeria** (Remoto)
+**Senior ReactJS Developer**  
+*mai/2021 – dez/2022*  
+- Desenvolvimento web com **Next.js** e mobile com **React Native**.
+- Foco em performance, testes e qualidade de código.
 
-### Cuponeria
-- **Role:** Front End Developer
-- **Technology:** ReactJS with NextJS
+### **TradeUp Group**
+**Mobile Developer – React Native**  
+*out/2019 – mai/2021*  
+- Desenvolvimento mobile e manutenção web usando **React Native** e **Next.js**.
 
-### TradeUp Group
-- **Role:** Mobile Developer
-- **Technology:** React Native
+### **AJX Automação Comercial**
+**Full Stack Developer**  
+*dez/2017 – out/2019*
 
-### AJX Automação
-- **Roles:** Backend Developer, Frontend Developer, Mobile Developer, Point of Sale (POS) Integration
-- **Technologies:** TypeScript, PHP, Laravel, Ionic 3, Delphi, ReactJS
+---
+
+## 🎓 Formação
+**Universidade Federal de Santa Catarina**  
+Licenciatura em Matemática (2009 – 2014)
+
+---
+
+## 🌐 Idiomas
+- Português: Nativo
+- Inglês: Fluente (oral e escrito, experiência profissional internacional)
