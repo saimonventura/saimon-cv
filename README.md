@@ -9,6 +9,7 @@ Sou um desenvolvedor com mais de 7 anos de experiência em desenvolvimento web, 
 - 📍 Atualmente no Brasil
 - ✈️ Passagens compradas para Portugal (com datas remarcáveis)
 - 📄 Visto de trabalho solicitado em **23/03/2025** (aguardando resposta — prazo de até 90 dias)
+- 📜 Pedido de **cidadania portuguesa submetido em 24-06-2021** (Proc-92300/21)
 - ⏳ Contrato atual na [FreshBooks.com](https://www.freshbooks.com/) finaliza em **30 de maio de 2025**
 
 ---
@@ -34,7 +35,7 @@ Desenvolvedor apaixonado por criar soluções robustas, escaláveis e com ótima
 
 ## 🌐 Contato
 
-- 📧 [E-mail](mailto:saimonventura@gmail.com)
+- 📧 [E-mail: saimonventura@gmail.com](mailto:saimonventura@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saimon-v-36703280/)
 - 🐙 [Personal GitHub](https://github.com/saimonventura/saimon-cv)
 - 🐙 [Freshbooks GitHub](https://github.com/Fresh-Saimon)
