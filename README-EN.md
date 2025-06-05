@@ -7,10 +7,10 @@ I am a developer with over 7 years of experience in web development, especially 
 ## 🛂 Current Status
 
 - 📍 Currently in Brazil
-- ✈️ Tickets purchased for Portugal (with flexible dates)
-- 📄 Work visa requested on **March 23, 2025** (awaiting response — up to 90 days)
+- ✈️ Tickets purchased for Portugal
+- 📄 Work visa OK
 - 📜 Portuguese citizenship application submitted on **June 24, 2021** (Proc-92300/21)
-- ⏳ Current contract at [FreshBooks.com](https://www.freshbooks.com/) ends on **May 30, 2025**
+
 
 ---
 
