@@ -7,7 +7,7 @@ Sou um desenvolvedor com mais de 7 anos de experiência em desenvolvimento web, 
 ## 🛂 Status Atual
 
 - 📍 Atualmente no Brasil
-- ✈️ Passagens compradas para Portugal (com datas remarcáveis)
+- ✈️ Passagens compradas para Portuga
 - 📄 Visto de trabalho de Portugues
 - 📜 Pedido de **cidadania portuguesa submetido em 24-06-2021** (Proc-92300/21)
 
