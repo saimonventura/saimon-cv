@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Saimon Ventura
 
-Sou um desenvolvedor com mais de 7 anos de experiência em desenvolvimento web, especialmente com foco em tecnologias como ReactJS, TypeScript e Next.js. Atualmente estou em transição para Portugal, aguardando a finalização do meu visto de trabalho.
+Sou um desenvolvedor com mais de 7 anos de experiência em desenvolvimento web, especialmente com foco em tecnologias como ReactJS, TypeScript e Next.js. Atualmente estou em transição para Portugal.
 
 ---
 
@@ -8,8 +8,7 @@ Sou um desenvolvedor com mais de 7 anos de experiência em desenvolvimento web, 
 
 - 📍 Atualmente no Brasil
 - ✈️ Passagens compradas para Portuga
-- 📄 Visto de trabalho de Portugues
-- 📜 Pedido de **cidadania portuguesa submetido em 24-06-2021** (Proc-92300/21)
+- 📄 Visto de trabalho de Portugues OK
 
 
 ---
