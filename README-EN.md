@@ -8,9 +8,7 @@ I am a developer with over 7 years of experience in web development, especially 
 
 - 📍 Currently in Brazil
 - ✈️ Tickets purchased for Portugal
-- 📄 Work visa OK
-- 📜 Portuguese citizenship application submitted on **June 24, 2021** (Proc-92300/21)
-
+- 📄 Portuguese Work visa OK
 
 ---
 
