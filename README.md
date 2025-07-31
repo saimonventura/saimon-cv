@@ -6,10 +6,8 @@ Sou um desenvolvedor com mais de 7 anos de experiência em desenvolvimento web, 
 
 ## 🛂 Status Atual
 
-- 📍 Atualmente no Brasil
-- ✈️ Passagens compradas para Portuga
+- 📍 Atualmente em Porto
 - 📄 Visto de trabalho de Portugues OK
-
 
 ---
 
